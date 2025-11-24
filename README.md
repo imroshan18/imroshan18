@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Roshan Paul Goddu<br><br>I'm a Computer Science & Engineering student at Lovely Professional University, passionate about turning raw data into meaningful insights and intelligent solutions. I enjoy building data-driven applications, exploring machine learning models, and developing end-to-end analytics workflows.<br><br>Over the last year, I’ve worked on projects involving NLP, predictive modeling, BI dashboards, and end-to-end ML pipelines, and gained hands-on experience as a Business Analyst Intern at Futurense Technologies.
+Hi, I'm Roshan Paul <br><br>I'm a Computer Science & Engineering student at Lovely Professional University, passionate about turning raw data into meaningful insights and intelligent solutions. I enjoy building data-driven applications, exploring machine learning models, and developing end-to-end analytics workflows.<br><br>Over the last year, I’ve worked on projects involving NLP, predictive modeling, BI dashboards, and end-to-end ML pipelines, and gained hands-on experience as a Business Analyst Intern at Futurense Technologies.
 
 
 ## 🌐 Socials:
